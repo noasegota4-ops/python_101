@@ -159,8 +159,8 @@ sučelja za instalaciju *desktop* aplikacija. Na slici
 [1](#fig:wininstall){reference-type="ref" reference="fig:wininstall"}
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
 
-![Instalacija Pythona na Windows OS-u](windows_install){#fig:wininstall
-width="\\textwidth"}
+![Instalacija Pythona na Windows OS-u](images/windows_install.png)
+
 
 Dok klik na \"Install Now\" obavlja većinu posla, ipak je korisno
 primijetiti neke detalje i uključiti dodatne mogućnosti. Python će se po
@@ -208,8 +208,7 @@ koncepata i eksperimentaciju s mogućnostima. IDLE se ponaša kao i većina
 aplikacija s grafičkim sučeljem, odnosno moguće ju je pokrenuti kroz
 *Start menu* ili ekvivalente u drugim operativnim sustavima.
 
-![Izvršavanje Python kôda putem sučelja IDLE](idle){#fig:idle
-width="\\textwidth"}
+![Izvršavanje Python kôda putem sučelja IDLE](images/idle.png)
 
 Kada pokrenemo IDLE, dočekati će nas glavno sučelje ovog programa koje
 je prikazano na slici [2](#fig:idle){reference-type="ref"
@@ -235,8 +234,7 @@ je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
 reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
-![IDLE i pisanje tekstualnih datoteka](idle_text){#fig:idle_text
-width="\\textwidth"}
+![IDLE i pisanje tekstualnih datoteka](images/idle_text.png)
 
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
 tekstualnih datoteka (poput Notepada i sličnog softvera), a ne komandna
@@ -249,8 +247,7 @@ asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
 radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
 reference="fig:idle_text_run"}.
 
-![IDLE i rezultat izvršavanja
-programa](idle_text_run){#fig:idle_text_run width="\\textwidth"}
+![IDLE i rezultat izvršavanja programa](images/idle_text_run.png)
 
 Upravo smo izvršili računalni program! Ovu datoteku nismo morali
 pokretati kroz IDLE, mogli smo je i jednostavno pokrenuti direktno iz
