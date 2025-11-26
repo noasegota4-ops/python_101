@@ -180,12 +180,10 @@ Kako bi dobili dojam što su razni kontrolni znakovi, zanimljivo je
 spomenuti znakove s kojima i danas označavamo prelazak u novi redak. To
 su znakovi *carriage return* i *line feed*. Kada se na ovakve znakove
 želimo referirati u tekstu običnim znakovima to tipično činimo kroz  
-r ili CR (*carriage return*) i  
-n ili LF (*line feed*). Na Windows sustavima se kraj retka označava s
-oba ova znaka (  
-r  
-n), a na UNIX sustavima samo sa  
-n. Većina suvislog softvera za rad s običnim tekstom će znati tretirati
+r ili CR (*carriage return*) i n ili LF (*line feed*). 
+Na Windows sustavima se kraj retka označava s oba ova znaka (r n), 
+a na UNIX sustavima samo sa n.
+Većina suvislog softvera za rad s običnim tekstom će znati tretirati
 oba stila pa se oko ovoga ne trebamo previše zabrinjavati. Ono što je
 zgodno znati je da kada stisnemo tipku *enter* odnosno *return* kako bi
 prešli u novi redak da je ono što računalo zapravo učini je da umetne
@@ -355,3 +353,4 @@ zapisu HTML-a ili Pythona i drugog programskog kôda.
 
 Sada kad bolje razumijemo koncept digitalnog elektroničkog teksta i
 obične tekstualne datoteke, pogledajmo kako se s njime radi u Pythonu.
+
