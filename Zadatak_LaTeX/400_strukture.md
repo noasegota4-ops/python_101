@@ -408,7 +408,7 @@ definira pomak između dva broja koja se generiraju funkcijom ‘range‘.
 Navedeno je možda teže shvatiti kroz definiciju nego kroz primjer pa
 pogledajmo jedan:
 
-\<div class="minipage"\>
+<div class="minipage"\>
 
 ```python
 
@@ -428,7 +428,7 @@ print(r) range(1, 10, 2) print(list(r))
 
 ```
 
-\</div\>
+</div\>
 
 ##### *list* i *tuple*
 
@@ -800,7 +800,7 @@ podatke. Najčešća struktura s kojom se srećemo i koja nije striktno
 vezana za računala je tablica. Pogledajmo pojednostavljen primjer
 bibliografskih metapodataka u tabličnom obliku.
 
-\<div id="table:primjer"\>
+<div id="table:primjer"\>
 
 \| **Naslov** \| **Autor** \| **Godina** \| **Izdavač**
 \| **ISBN** \| \|:—\|:—\|:—\|:—\|:—\| \| Good Omens \| Terry
@@ -811,7 +811,7 @@ Interesting times \| Terry Pratchett \| 1994 \| Gollancz \|
 
 Primjer jednostavne tablice
 
-\</div\>
+</div\>
 
 Započnimo jednostavnim pitanjem: "Kako postaviti tablične podatke u
 oblik iskoristiv za programiranje?".
@@ -1210,3 +1210,4 @@ ali ne možemo adresirati unutar tog teksta, što poražava svrhu. Također,
 neke relacijske baze poput PostgreSQLa od nedavno dopuštaju pohranu
 strukturiranih vrijednosti unutar ćelije i adresiranje unutar ćelije,
 što ih čini hibridnim radije no relacijskim bazama.
+
