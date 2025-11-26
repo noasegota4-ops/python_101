@@ -354,3 +354,4 @@ zapisu HTML-a ili Pythona i drugog programskog kôda.
 Sada kad bolje razumijemo koncept digitalnog elektroničkog teksta i
 obične tekstualne datoteke, pogledajmo kako se s njime radi u Pythonu.
 
+
