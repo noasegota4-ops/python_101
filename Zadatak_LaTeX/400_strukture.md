@@ -802,16 +802,16 @@ bibliografskih metapodataka u tabličnom obliku.
 
 <div id="table:primjer"\>
 
-\| **Naslov** \| **Autor** \| **Godina** \| **Izdavač**
-\| **ISBN** \| \|:—\|:—\|:—\|:—\|:—\| \| Good Omens \| Terry
-Pratchett & Neil Gaiman \| 1990 \| Gollancz \| 0-575-04800-X \| \|
-Interesting times \| Terry Pratchett \| 1994 \| Gollancz \|
-0-575-05800-5 \| \| Neverwhere \| Neil Gaiman \| 1996 \| BBC Books \|
-0-7472-6668-9 \|
+| **Naslov** | **Autor** | **Godina** | **Izdavač**
+| **ISBN** | |:—|:—|:—|:—|:—| | Good Omens | Terry
+Pratchett & Neil Gaiman | 1990 | Gollancz | 0-575-04800-X | |
+Interesting times | Terry Pratchett | 1994 | Gollancz |
+0-575-05800-5 | | Neverwhere | Neil Gaiman | 1996 | BBC Books |
+0-7472-6668-9 |
 
 Primjer jednostavne tablice
 
-</div\>
+<div\>
 
 Započnimo jednostavnim pitanjem: "Kako postaviti tablične podatke u
 oblik iskoristiv za programiranje?".
@@ -1210,4 +1210,5 @@ ali ne možemo adresirati unutar tog teksta, što poražava svrhu. Također,
 neke relacijske baze poput PostgreSQLa od nedavno dopuštaju pohranu
 strukturiranih vrijednosti unutar ćelije i adresiranje unutar ćelije,
 što ih čini hibridnim radije no relacijskim bazama.
+
 
